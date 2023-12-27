@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import tour1 from "./img/tour1.webp";
 import tour2 from "./img/tour2.webp";
 import winner from "./img/winner1.jpg";
