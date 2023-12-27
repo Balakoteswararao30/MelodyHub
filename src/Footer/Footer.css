@@ -1,0 +1,28 @@
+.address{
+    height: 40vh;
+    background-color: black;
+    color: white;
+}
+.address p{
+    width: 70%;
+    line-height: 30px;
+}
+.address a{
+    text-decoration: none;
+    color: white;
+    line-height: 40px;
+}
+.address a:hover{
+    color: blue;
+}
+.usa p{
+    font-size: 15px;
+}
+.address i{
+    font-size: 1.6em;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+.address i:hover{
+    color: blue;
+}
